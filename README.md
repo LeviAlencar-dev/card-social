@@ -4,7 +4,7 @@ Cartão de apresentação com links para contato e redes profissionais, feito co
 
 ## Demonstração
 
-- **Página publicada:** https://github.com/LeviAlencar-dev/card-social
+- **Página publicada:** https://levialencar-dev.github.io/card-social/
 - **Capturas de tela:**
 
 | Tema escuro | Tema claro |
