@@ -43,7 +43,7 @@ social-card/
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/LeviAlencar-dev/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/LeviAlencar-dev/card-social.git
    ```
 2. Abra o arquivo `index.html` no navegador. Não há dependências nem etapa de instalação.
 
